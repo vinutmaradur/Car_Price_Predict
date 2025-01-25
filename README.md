@@ -6,7 +6,10 @@ This project is a **machine learning-powered web application** for predicting ca
 
 ## Screenshot 📸
 
-![img alt]()
+![img alt](https://github.com/vinutmaradur/Car_Price_Predict/blob/main/car%201.png?raw=true)
+![img_alt]()
+![img_alt]()
+![img_alt]()
 
 ---
 
