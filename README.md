@@ -13,6 +13,66 @@ This project is a **machine learning-powered web application** for predicting ca
 
 ---
 
+## Cardetails.csv Dataset 📊
+
+The Cardetails.csv file is a dataset containing comprehensive details about various cars, which is utilized for training the machine learning model and populating dropdown options in the web application.
+
+Key Features in the Dataset
+The dataset includes the following columns:
+
+- **1. name**:
+
+- The brand or make of the car (e.g., Maruti, Hyundai, Honda).
+- This is further processed to extract the brand name.
+
+- **2. year**:
+
+- The year of manufacture of the car.
+- Used to calculate the car's age.
+
+- **3. km_driven**:
+
+- The total number of kilometers driven by the car.
+- Helps estimate the wear and tear on the vehicle.
+
+- **4. fuel**:
+
+- The type of fuel the car uses (e.g., Petrol, Diesel, LPG, CNG).
+- **5. seller_type**:
+
+- Indicates whether the seller is an Individual, Dealer, or Trustmark Dealer.
+
+- **6. transmission**:
+
+- Specifies whether the car has a Manual or Automatic transmission.
+
+- **7. owner**:
+
+- The number of previous owners (e.g., First Owner, Second Owner, etc.).
+
+- **8. mileage**:
+
+- The car's mileage in kilometers per liter (kmpl).
+
+- **9. engine**:
+
+- The engine capacity of the car in cubic centimeters (cc).
+
+- **10. max_power**:
+
+- The maximum power output of the car, usually in brake horsepower (bhp).
+
+- **11. seats**:
+
+- The number of seats available in the car.
+
+Sample Data
+
+
+
+
+---
+
 ## Requirements 🛠️
 
 Ensure you have the following installed:
