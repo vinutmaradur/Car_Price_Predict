@@ -4,6 +4,12 @@ This project is a **machine learning-powered web application** for predicting ca
 
 ---
 
+## Screenshot 📸
+
+![img alt]()
+
+---
+
 ## Features 🎯
 
 - **Interactive UI** for inputting car details such as brand, year of manufacture, mileage, etc.
