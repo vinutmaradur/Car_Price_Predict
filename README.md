@@ -56,9 +56,9 @@ Click the "Predict" button.
 The predicted car price will be displayed on the screen.
 
 ## File Structure 📂
-app.py: Main application script.
-model.pkl: Pre-trained machine learning model (required).
-Cardetails.csv: Dataset for car details (required).
+- **app.py**: Main application script.
+- **model.pkl**: Pre-trained machine learning model (required).
+- **Cardetails.csv**: Dataset for car details (required).
 
 ## Example Input and Output 🔍
 # Input
