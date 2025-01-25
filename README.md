@@ -153,7 +153,8 @@ The predicted car price will be displayed on the screen.
 ## Contributing 🤝
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
 
-## License 📄
+## License
+
 This project is licensed under the MIT License.
 
 ## Acknowledgments 🙌
