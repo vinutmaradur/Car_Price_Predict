@@ -9,7 +9,7 @@ This project is a **machine learning-powered web application** for predicting ca
 ![img alt](https://github.com/vinutmaradur/Car_Price_Predict/blob/main/car%201.png?raw=true)
 ![img_alt](https://github.com/vinutmaradur/Car_Price_Predict/blob/main/car%202.png?raw=true)
 ![img_alt](https://github.com/vinutmaradur/Car_Price_Predict/blob/main/car%203.png?raw=true)
-![img_alt]()
+![img_alt](https://github.com/vinutmaradur/Car_Price_Predict/blob/main/car%204.png?raw=true)
 
 ---
 
