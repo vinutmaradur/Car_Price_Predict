@@ -158,6 +158,10 @@ This project is licensed under the MIT License.
 - Streamlit for providing an excellent framework for building interactive web applications.
 - The dataset and machine learning model used for this project.
 
+## Check me code
+Below is the link to check my app
+[Demo Code](https://carpricepredict-2025.streamlit.app/)
+
 ## Happy Coding! 💻✨
 
 You can modify sections like the GitHub repository link or license if needed. Let me know if you'd like help adding anything else!
