@@ -26,8 +26,9 @@ This project is a **machine learning-powered web application** for predicting ca
 
 The Cardetails.csv file is a dataset containing comprehensive details about various cars, which is utilized for training the machine learning model and populating dropdown options in the web application.
 
-Key Features in the Dataset
-The dataset includes the following columns:
+# Key Features in the Dataset
+
+# The dataset includes the following columns:
 
 - **1. name**:
 
