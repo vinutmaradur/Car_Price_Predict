@@ -30,49 +30,50 @@ The Cardetails.csv file is a dataset containing comprehensive details about vari
 
 # The dataset includes the following columns:
 
-- **1. name**:
+**1. name**:
 
 - The brand or make of the car (e.g., Maruti, Hyundai, Honda).
 - This is further processed to extract the brand name.
 
-- **2. year**:
+**2. year**:
 
 - The year of manufacture of the car.
 - Used to calculate the car's age.
 
-- **3. km_driven**:
+**3. km_driven**:
 
 - The total number of kilometers driven by the car.
 - Helps estimate the wear and tear on the vehicle.
 
-- **4. fuel**:
+**4. fuel**:
 
 - The type of fuel the car uses (e.g., Petrol, Diesel, LPG, CNG).
-- **5. seller_type**:
+
+**5. seller_type**:
 
 - Indicates whether the seller is an Individual, Dealer, or Trustmark Dealer.
 
-- **6. transmission**:
+**6. transmission**:
 
 - Specifies whether the car has a Manual or Automatic transmission.
 
-- **7. owner**:
+**7. owner**:
 
 - The number of previous owners (e.g., First Owner, Second Owner, etc.).
 
-- **8. mileage**:
+**8. mileage**:
 
 - The car's mileage in kilometers per liter (kmpl).
 
-- **9. engine**:
+**9. engine**:
 
 - The engine capacity of the car in cubic centimeters (cc).
 
-- **10. max_power**:
+**10. max_power**:
 
 - The maximum power output of the car, usually in brake horsepower (bhp).
 
-- **11. seats**:
+**11. seats**:
 
 - The number of seats available in the car.
 
@@ -106,19 +107,19 @@ Ensure you have the following installed:
    cd car-price-prediction
    ```
    
-2.Install the required dependencies:
+2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
    ```
 
-3.Place the model.pkl file (pre-trained ML model) and Cardetails.csv (dataset) in the project directory.
+3. Place the model.pkl file (pre-trained ML model) and Cardetails.csv (dataset) in the project directory.
 
-4.Run the application:
+4. Run the application:
    ```bash
     streamlit run app.py
    ```
 
-5.Open your browser and go to:
+5. Open your browser and go to:
    ```bash
    http://localhost:8501
    ```
