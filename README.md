@@ -33,19 +33,19 @@ Ensure you have the following installed:
    cd car-price-prediction
    ```
    
- 2.Install the required dependencies:
+2.Install the required dependencies:
    ```bash
    pip install -r requirements.txt
    ```
 
- 3.Place the model.pkl file (pre-trained ML model) and Cardetails.csv (dataset) in the project directory.
+3.Place the model.pkl file (pre-trained ML model) and Cardetails.csv (dataset) in the project directory.
 
- 4.Run the application:
+4.Run the application:
    ```bash
     streamlit run app.py
    ```
 
- 5.Open your browser and go to:
+5.Open your browser and go to:
    ```bash
    http://localhost:8501
    ```
