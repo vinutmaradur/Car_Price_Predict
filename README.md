@@ -68,8 +68,11 @@ The dataset includes the following columns:
 
 Sample Data
 
-
-
+| name |	year | km_driven	| fuel | seller_type	| transmission	| owner	| mileage	| engine	| max_power	| seats |
+| :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | 
+| Maruti	| 2015 | 45000	| Petrol	| Dealer	| Manual	| First Owner	| 20	| 1200 | 85	| 5 |
+| Hyundai |	2017 | 30000 |	Diesel |	Individual | Automatic | Second Owner	| 22	| 1400	| 100	| 5 |
+| Honda	| 2019	| 20000 | CNG | Dealer	| Manual	| First Owner	| 18	| 1600 | 110 | 5 |
 
 ---
 
