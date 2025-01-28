@@ -1,4 +1,4 @@
-# Car Price Prediction Web Application 🚗💰
+## Car Price Prediction Web Application 🚗💰
 
 This project is a **machine learning-powered web application** for predicting car prices based on various features like brand, year, mileage, engine specifications, and more. It uses **Streamlit** for the frontend and is implemented in Python.
 
@@ -124,15 +124,21 @@ Ensure you have the following installed:
    http://localhost:8501
    ```
 
+---
+
 ## Usage 💻
 Select or input the car's details using the interactive widgets.
 Click the "Predict" button.
 The predicted car price will be displayed on the screen.
 
+---
+
 ## File Structure 📂
 - **app.py**: Main application script.
 - **model.pkl**: Pre-trained machine learning model (required).
 - **Cardetails.csv**: Dataset for car details (required).
+
+---
 
 ## Example Input and Output 🔍
 # Input
@@ -150,21 +156,31 @@ The predicted car price will be displayed on the screen.
 # Output
 - **Predicted Car Price**: ₹4,50,000
 
+---
+
 ## Contributing 🤝
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
 
-## License
+---
+
+## License 📄
 
 This project is licensed under the MIT License.
+
+---
 
 ## Acknowledgments 🙌
 - Streamlit for providing an excellent framework for building interactive web applications.
 - The dataset and machine learning model used for this project.
 
+---
+
 ## Check my code 👁️
 Below is the link to check my app
 
   [Project demo](https://carpricepredict-2025.streamlit.app/) 🚀
+
+---
 
 ## Happy Coding! 💻✨
 
